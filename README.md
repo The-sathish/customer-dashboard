@@ -4,6 +4,9 @@ A production-ready custom dashboard builder application where users can create, 
 
 ---
 
+  Demo video
+ - https://drive.google.com/file/d/1VJsMEJF1x3SrL8lDduula4h-0S1fezsT/view?usp=sharing
+ 
  Features
 
 -  Drag & Drop widgets
