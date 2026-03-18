@@ -1,17 +1,39 @@
-# Customer Dashboard Project
+Customer Dashboard Builder
 
-##  Features
-- Dashboard UI
-- Order Management
-- Sales Analytics
+A production-ready custom dashboard builder application where users can create, drag, resize, and manage widgets dynamically.
 
-##  Tech Stack
-- React (Vite)
+---
+
+ Features
+
+-  Drag & Drop widgets
+-  Bar Chart & Pie Chart (Recharts)
+-  Resizable grid layout
+-  Save data using database
+-  Responsive design (desktop + mobile)
+-  Fast UI with modern design
+
+ Tech Stack
+
+ Frontend
+- React
 - TypeScript
+- Tailwind CSS
+- Zustand
+- React Grid Layout
+- Recharts
+
+ Backend
 - Node.js
+- Express
 
-## ▶ Run Project
+ Database
+- SQLite (local database using `database.db`)
 
+---
+
+
+Run Project
 ```bash
 npm install
 npm run dev
