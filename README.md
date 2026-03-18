@@ -3,6 +3,8 @@ Customer Dashboard Builder
 A production-ready custom dashboard builder application where users can create, drag, resize, and manage widgets dynamically.
 
 ---
+ Demo video
+- https://drive.google.com/file/d/1VJsMEJF1x3SrL8lDduula4h-0S1fezsT/view?usp=sharing
 
  Features
 
